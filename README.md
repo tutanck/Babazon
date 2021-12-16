@@ -8,9 +8,7 @@
 
 > Babazon Inventory manager app
 
-### 🏠 [Demo app for react-async](https://www.npmjs.com/package/@tutanck/react-async)
-
-### ✨ [Demo](https://babazon.netlify.app/)
+### 🏠 [@tutanck/react-async](https://www.npmjs.com/package/@tutanck/react-async)
 
 ## Install
 
@@ -34,10 +32,10 @@ npm run test
 
 👤 **tutanck**
 
-* Website: https://www.linkedin.com/in/joan-anagbla-90628250/
-* Twitter: [@tutanck](https://twitter.com/tutanck)
-* Github: [@tutanck](https://github.com/tutanck)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/joan-anagbla-90628250\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/joan-anagbla-90628250\/)
+- Website: https://www.linkedin.com/in/joan-anagbla-90628250/
+- Twitter: [@tutanck](https://twitter.com/tutanck)
+- Github: [@tutanck](https://github.com/tutanck)
+- LinkedIn: [@https:\/\/www.linkedin.com\/in\/joan-anagbla-90628250\/](https://linkedin.com/in/https://www.linkedin.com/in/joan-anagbla-90628250/)
 
 ## Show your support
 
@@ -47,5 +45,6 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
