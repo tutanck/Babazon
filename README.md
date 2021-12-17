@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Babazon Inventory manager app
+> Babazon: Demo app for 
 
 ### 🏠 [@tutanck/react-async](https://www.npmjs.com/package/@tutanck/react-async)
 
